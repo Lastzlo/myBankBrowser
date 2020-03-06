@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="myBankBrowser" />
         <module name="RestorantMenuBrowser3" />
+        <module name="myBankBrowser" />
       </profile>
     </annotationProcessing>
   </component>
